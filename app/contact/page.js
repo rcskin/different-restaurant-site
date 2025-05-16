@@ -10,6 +10,17 @@ export default function Contact() {
         <p className="mt-4 text-center max-w-2xl mx-auto text-lg font-light px-6">
           For table bookings, please call us. For special events like Christmas parties, birthdays, or large events, feel free to get in touch with us directly.
         </p>
+        <br></br>
+        <h1 className="text-center text-4xl font-bold font-caveat">Hours</h1>
+        <p className="mt-4 text-center max-w-2xl mx-auto text-lg font-light px-6">
+          Tuesdays - Saturdays: 
+          8:30 am to 11:30 pm</p>
+          <p className="mt-4 text-center max-w-2xl mx-auto text-lg font-light px-6">Sundays:  
+          8:30am - 5:00 pm     
+        </p>
+        <p className="mt-4 text-center max-w-2xl mx-auto text-lg font-light px-6">
+          <em>*note that our kitchen closes ~1 hour before close</em>
+        </p>
       </header>
 
       {/* Contact Information */}

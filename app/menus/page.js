@@ -10,18 +10,17 @@ export default function MenusPage() {
       <div className="mb-10">
         <h2 className="text-4xl font-bold font-caveat mb-4">Tapas Menu</h2>
         <p className="text-xl mb-4">
-          Our Tapas Menu is perfect for daytime or evening dining, offering a variety of small plates designed for sharing (we recommend 2-3 per person). While the tapas menu highlights local favorites, our chefs also create a unique daily specials menu, bringing creative, globally-inspired flavors each day. 
+          Our Tapas Menu is perfect for daytime or evening dining, offering a variety of small plates designed for sharing (we recommend 2-3 per person). While the tapas menu highlights local favorites, our chefs also create a unique specials menu, bringing creative, globally-inspired flavors each day. 
           We cater to different dietary needs, but please call ahead to let us know about any allergies or restrictions so we can modify dishes or recommend options.
         </p>
-        <p><em>New Menu Coming Soon!</em></p>
-        {/* <a 
+        <a 
           href="/images/menus/tapas-menu.jpg" 
           target="_blank" 
           rel="noopener noreferrer" 
           className="text-blue-500 hover:underline text-lg"
         >
           View Tapas Menu
-        </a> */}
+        </a>
       </div>
 
       {/* Drinks Menu Section */}
@@ -42,12 +41,12 @@ export default function MenusPage() {
 
       {/* Breakfast Menu Section */}
       <div className="mb-10">
-        <h2 className="text-4xl font-bold font-caveat mb-4">Weekend Breakfast Menu</h2>
+        <h2 className="text-4xl font-bold font-caveat mb-4">Breakfast Menu</h2>
         <p className="text-xl mb-4">
-          Available Friday through Sunday mornings, our Breakfast Menu is ideal for starting your weekend with a delicious breakfast or brunch. Featuring local favorites, this menu has something for everyone to enjoy.
+          Available Tuesday through Sunday mornings, our Breakfast Menu is ideal for starting your day with a delicious breakfast or brunch. Featuring local favorites, this menu has something for everyone to enjoy.
         </p>
         <a 
-          href="/images/menus/breakfast-menu.jpg" 
+          href="/images/menus/breakfast-menu.jpg"
           target="_blank" 
           rel="noopener noreferrer" 
           className="text-blue-500 hover:underline text-lg"
